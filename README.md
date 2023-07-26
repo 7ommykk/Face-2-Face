@@ -1,8 +1,8 @@
 > 前端相关信息整理... 2023.7.21
 
 > 置顶
-- __[点我跳转](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84-202307)__ - 前端学习路径(20230726更新)
-- __[点我跳转](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-202307)__ - 前端学习计划(20230726更新)
+> - __[点我跳转](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84-202307)__ - 前端学习路径(20230726更新)
+> - __[点我跳转](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-202307)__ - 前端学习计划(20230726更新)
 
 ## 2023.国内
 
