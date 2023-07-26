@@ -2,6 +2,10 @@
 
 > 置顶： __[前端路径](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84-202307)__ - 学习路径更新20230726
 ## 2023.国内
+
+> 置顶2： __[前端计划](https://github.com/7ommykk/Face-2-Face/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92-202307)__ - 学习计划更新20230726
+## 2023.国内
+
 - __[Vue3.2移动端实战项目](https://pan.baidu.com/s/1sHUSnEyjdIf70A1K7-8jsQ?pwd=y1hs)__ - vue3.2移动端实战项目（项目搭建、依赖安装、首页导航、公共数据定义、模块结构分配、路由定义、加入购物车、PINIA、列表页渲染、详情页传参）
 - __[实战项目源码](https://pan.baidu.com/s/1CXSno3DLhODeqdtSnsC8zA?pwd=c313)__ - 应该是
 - __[Vite2+Vue3.2学习文档](https://pan.baidu.com/s/1ZcmFxynmqNVajEuXew2k1g?pwd=bldq)__ - Vite2+Vue3.2学习文档
