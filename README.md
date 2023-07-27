@@ -21,4 +21,3 @@
 - __[数据库相关](https://pan.baidu.com/s/12GP6ehaetTMQ017O0Ow0Pg?pwd=17d4)__ - 数据库相关
 #### 微信平台
 - __[前端基础建设](https://mp.weixin.qq.com/s/Qug7fU7p_9s1WZ_7xb6x0A)__ - 面试官：如果是你前端leader，你会做哪些前端基础建设？
-- __[前端基础建设](https://mp.weixin.qq.com/s/Qug7fU7p_9s1WZ_7xb6x0A)__ - 面试官：如果是你前端leader，你会做哪些前端基础建设？
